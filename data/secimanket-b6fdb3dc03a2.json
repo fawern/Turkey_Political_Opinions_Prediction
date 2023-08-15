@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "secimanket",
+  "private_key_id": "b6fdb3dc03a2f811f346cb21d5e4ab909737e0e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGMtkCbkIAJMsw\ns4fcHQMBL6yJJ9kI7gxY9KqeaMBb/wL3L3ULZrY+tdDD70A9u9rgJDtsMm2g9MA9\nF0CzYD2atUUUmEbrNbEfioj/u8zJBId5UVpdquSa7KShC5PqqKOjrhmKY653HqsI\nCoSPSTAdb1LsSs5zP6zJM1TdtrN7m/EGlETStoA6XYibU8/LvlWGl8I7e1iRGh8z\nMIst7qRt9IPOwEohnBGvolCXBADWlmQrT6HXL0m81plMbFh8eGxhHdbl7IIs6IvA\nov5K0VDLhBqwHq6XDQWVcFn8ff9ebN/Ta6BqjTwzbJLPkk5orJB8/rZNCRwRTz3a\nkZE5JPUVAgMBAAECggEAAsqWidU5srzR68arhCsYbrzYJjpccSbBH8OaX47EHseR\nqB+P+3Af4vQ2k3vcIMJzi7KW76gqKRkpV/Lq41vYokQpS+f1H7zq2LHfyhJACRi6\nO7gsmKMegxwQGYCLPcPQQi7ihzNuMplI+V0EjuwN9Gwr88396FueOFszt8ep8XSz\nbltgW0lTMX3G/9KJb5Jr8eSGYDPGJ2R2wNAKhNPsuX/pwISP4lXsO8w4w0050BRb\ntQyHoNZeBovN8UJebe3jntN5uPNmkyNTQ3Zp/0R5tf0T1vLVvpgtGCVg1N4rRYTi\n1Kj/XaMzEjMFsB2mlmTyn+oDtA7xkEblvto1DwDaIQKBgQDuikgfi1U4hXIUNVVC\nhM/Fh7EKq0Yky818CrskenF/1Y+/yWc9Aw35/Y9ictLSeDP+Uq/EtACo+LKHAzTd\ns3Bh/VenDPeFZXw3PAh5EaWyFPtBqmVUZnPpIbFe2sAjgMqO7ZRHXw0h+J5xklym\n+ttcy0lTvKOyr2zqSeIuw42X7QKBgQDUtKd5sE8ebnq2Pi8EgpphUAlP6F2Y9apX\n6vFJnXRkRQKC//2wgrv50ZD40Cf/IiaMSSparZWQtBnze1T3PFLGPTHtKekxU8sT\nHuc4e+HZYkbicfu5wjtzc+RuKp3sl/lPFQoYzKk7ZuEFdxVJHYNCbrA4qbvGPFAn\nQe3Qgu3cyQKBgQCFtQ8uV0xijTJfr3FmAsnvn9qV72E2+OHqWJ2DmfqKvCuCRiNP\nKKop6X34ogIYJXaHZNPPP1JrZFO1qA93AcDJvFbodTU9GaCh2U2qh0DIbEhWC2wW\n/gKUt+UTFSzD+coQiY0m4FmdJB2z7WVv14ckIXKttDxRyVEUlmto6QYyFQKBgD/y\nnBMarX6xqlTV9x69ARrWjCYo7tLIsNDDwozmOJLYqHun6KZDd64QkiwrsIqkwsAU\nUxZ172xUqSSpZI775MrSpQrvObtpvLjf5pX1sJ3BTRxRNmPPgD4ijn+McnQp8HsV\nETcJeKtyL56MAas8ozS6wGIYrWpYwaQ7zvqMEmT5AoGAJOtEFinL745NWhf7Pt/p\nQ2AVXK8uyORr4B+6YcLO/woUg6q54HJRtgr3jQvhXmwSQAixfdTGHe/5QTt4DFkB\n1i5j87CVnH0n0aH788MDTeHkABmF93wbL438EDlGqwKGVicAjTGZDAwolTT5bb8q\n7tpEFRcvqmSTuAG9OM28F6c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "secim-anketsheets@secimanket.iam.gserviceaccount.com",
+  "client_id": "117112033408596821109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/secim-anketsheets%40secimanket.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
