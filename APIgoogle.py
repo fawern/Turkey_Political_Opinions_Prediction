@@ -2,6 +2,9 @@ import pandas as pd
 import csv
 import gspread
 
+
+# https://docs.google.com/forms/d/1Lkjwpv1W9-mMo3JdeEEylN6S93gHUZQUFw8GXppT3nw/edit
+
 sa = gspread.service_account(filename="./data/secimanket-b6fdb3dc03a2.json")
 
 wb = sa.open("Secim")
