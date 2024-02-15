@@ -1,9 +1,9 @@
 import numpy as np 
 import pandas as pd
+from sklearn.preprocessing import OneHotEncoder
 
 
-
-class Tokenizer:
+class PreProcessing:
 
     def __init__(self, data):
         self.data = data 
@@ -63,8 +63,12 @@ class Tokenizer:
         
         return self.data
 
+    def categoricalToOneHot(self, target_col):
+        onehotdata = self.data.drop(columns=[target_col])
 
-class One_Hot_Encoder:
+        onehotencoder = OneHotEncoder()
+        onehotencoder.fit(onehotdata)
+        onehotdata = onehotencoder.transform(onehotdata).toarray()
+        onehotdata = pd.DataFrame(onehotdata, columns=onehotencoder.get_feature_names_out())
 
-    def __init__(self, data):
-        self.data = data
+        return onehotencoder, onehotdata
